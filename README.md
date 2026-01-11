@@ -55,13 +55,21 @@ ________________________________________
 lib/
  ├── pages/
  │    ├── dashboard.dart
+ 
  │    ├── add_expense.dart
+ 
  │    ├── add_income.dart
+ 
  │    └── data_manager.dart
+ 
  ├── provider/
+ 
  │    └── finance_provider.dart
+ 
  ├── service/
+ 
  │    └── database_service.dart
+ 
  └── main.dart
 ________________________________________
 🔄 How It Works
