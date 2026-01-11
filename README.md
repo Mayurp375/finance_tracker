@@ -107,7 +107,7 @@ ________________________________________
 ________________________________________
 🧑‍💻 Developer
 Built by Mayur Polojwar
-Backend Engineer (Java, Spring Boot, Fintech)
+Backend Engineer (flutter, Spring Boot (java), Fintech)
 Learning Flutter for building real-world products.
 
 
